@@ -60,12 +60,8 @@ Wasif Siddiqui ID 2072771.
 
 
 
-
-
-
-
-6.The section of the POM file showing the coordinates after you’ve fixed them.
-![Fixed pom.xml](images/pic6.PNG)
+6.Your GitHub repository with the readme.md file selected showing the build failed status after the GitHub workflow fails.
+![Github Badge fail](images/pic9.PNG)
 
 
 
@@ -75,9 +71,24 @@ Wasif Siddiqui ID 2072771.
 
 
 
-7.
+7.The section of the POM file showing the coordinates after you’ve fixed them.
+![Github Actions succcessful run](images/pic6.PNG)
 
 
+
+
+
+
+
+
+
+8.Your GitHub Actions dashboard showing the successful build after the breaking change has been fixed.
+![Fixed pom.xml](images/pic7.PNG)
+
+
+
+9.Your GitHub repository with the readme.md file selected showing the build success status after the GitHub workflow has recovered.
+![Readme badge fixed](images/pic7.PNG)
 
 
 
