@@ -88,7 +88,7 @@ Wasif Siddiqui ID 2072771.
 
 
 9.Your GitHub repository with the readme.md file selected showing the build success status after the GitHub workflow has recovered.
-![Readme badge fixed](images/pic7.PNG)
+![Readme badge fixed](images/pic8.PNG)
 
 
 
